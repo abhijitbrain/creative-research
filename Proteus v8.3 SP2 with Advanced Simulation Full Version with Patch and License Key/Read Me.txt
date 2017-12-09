@@ -1,0 +1,18 @@
+Proteus 8 Professional v8.3 SP2 with Advanced Simulation
+--------------------------------------------------------------------------
+
+Installation:
+1. Start the Proteus v8.3 SP1 Pro installation and select the locally installed key.
+2. Complete the installation typical or customized and close the window after installation is finished.
+3. Run the Patch.exe with administrative rights and close when patched.
+4. Voila...!!! Congratualations..Enjoy! :)
+
+--------------------------------------------------------------------------
+Downloaded from
+-----------------------------------------------------
+Techie's Stop Blog
+-----------------------------------------------------
+Visit the blog and bookmark for more.. ;)
+---------------------------------------
+techie-stop.blogspot.in
+---------------------------------------
